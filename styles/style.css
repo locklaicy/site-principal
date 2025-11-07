@@ -11,6 +11,7 @@
 .bienvenue {
     font-family: "Barlow Condensed";
     text-align: center;
+    
 }
 
 header {
@@ -44,4 +45,5 @@ body {
 .a-propos {
     font-family: "Barlow Condensed";
     padding: 20px;
+    line-height: 1.25rem;
 }
